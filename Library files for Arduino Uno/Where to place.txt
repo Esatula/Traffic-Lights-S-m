@@ -1,0 +1,9 @@
+
+Place files into:
+
+C:\Program Files\Labcenter Electronics\Proteus X Professional\LIBRARY
+
+
+Dosyaları aşağıdaki konuma atın: 
+
+C:\Program Files\Labcenter Electronics\Proteus X Professional\LIBRARY
